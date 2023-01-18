@@ -7,6 +7,7 @@ import com.example.onlinexd.utils.CommonUtils;
 import com.example.onlinexd.utils.JwtUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.util.Date;
 import java.util.Random;
@@ -16,6 +17,7 @@ import java.util.Random;
  * @date 2023/1/15 12:28
  */
 @Service
+@Transactional
 public class UserServiceImpl implements UserService {
 
     @Autowired

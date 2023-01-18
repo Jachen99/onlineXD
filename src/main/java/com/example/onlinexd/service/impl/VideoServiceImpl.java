@@ -9,6 +9,7 @@ import com.example.onlinexd.utils.BaseCache;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 import java.util.concurrent.ExecutionException;
@@ -19,6 +20,7 @@ import java.util.concurrent.ExecutionException;
  */
 @Service
 @Slf4j
+@Transactional
 public class VideoServiceImpl implements VideoService {
 
     @Autowired

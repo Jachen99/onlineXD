@@ -24,6 +24,7 @@ import java.util.UUID;
  * @date 2023/1/15 20:44
  */
 @Service
+@Transactional
 public class VideoOrderServiceImpl implements VideoOrderService {
 
 

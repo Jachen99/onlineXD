@@ -35,13 +35,13 @@ public class VideoOrder {
     @JsonFormat(pattern = "yyyy-MM-dd HH:mm:ss",timezone = "GMT+8") // 格式化返回前端的数据
     private Date createTime;
 
-    @JsonProperty("total_free")
+    @JsonProperty("total_fee")
     private Integer totalFree;
 
     @JsonProperty("video_id")
     private Integer videoId;
 
-    @JsonProperty("video-title")
+    @JsonProperty("video_title")
     private String videoTitle;
 
     @JsonProperty("video_img")
