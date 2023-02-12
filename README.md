@@ -3,7 +3,9 @@
 一款基于基于 SpringBoot2.3+spring5+mybatis3+Vue2.6+Cube-UI 的前后端分离手机端在线视频app
 
 部分页面效果展示：
-注册界面
+注册界面:
+
+
 ![Snipaste_2023-02-12_10-56-34](https://user-images.githubusercontent.com/81365742/218290365-2c0e9556-23aa-434d-b386-67719818f86d.png)
 <br>
 
