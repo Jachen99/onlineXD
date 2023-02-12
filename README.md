@@ -5,7 +5,7 @@
 部分页面效果展示：
 注册界面
 ![Snipaste_2023-02-12_10-56-34](https://user-images.githubusercontent.com/81365742/218290365-2c0e9556-23aa-434d-b386-67719818f86d.png)
-
+<br>
 
 主页展示：
 ![Snipaste_2023-02-12_10-58-25](https://user-images.githubusercontent.com/81365742/218290434-72dc4737-6256-40d1-b77c-90b1c31092bf.png)
