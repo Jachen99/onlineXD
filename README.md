@@ -1,6 +1,6 @@
 # onlineXD
 只是一个小demo 采用单体架构，非常适合新手小白学习。<br>
-一款基于基于 SpringBoot2.3+spring5+mybatis3+Vue2.6+Cube-UI 的前后端分离手机端在线视频app
+一款基于 SpringBoot2.3+spring5+mybatis3+Vue2.6+Cube-UI 的前后端分离手机端在线视频app
 
 部分页面效果展示：
 注册界面:
